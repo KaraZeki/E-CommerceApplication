@@ -1,0 +1,12 @@
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Entities\obj\Debug\netcoreapp3.1\Abc.MsSql.Entities.csprojAssemblyReference.cache
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Entities\obj\Debug\netcoreapp3.1\Abc.MsSql.Entities.csproj.CoreCompileInputs.cache
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Entities\obj\Debug\netcoreapp3.1\Abc.MsSql.Entities.AssemblyInfoInputs.cache
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Entities\obj\Debug\netcoreapp3.1\Abc.MsSql.Entities.AssemblyInfo.cs
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Entities\bin\Debug\netcoreapp3.1\Abc.MsSql.Entities.deps.json
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Entities\bin\Debug\netcoreapp3.1\Abc.MsSql.Entities.dll
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Entities\bin\Debug\netcoreapp3.1\Abc.MsSql.Entities.pdb
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Entities\bin\Debug\netcoreapp3.1\Abc.Core.dll
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Entities\bin\Debug\netcoreapp3.1\Abc.Core.pdb
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Entities\obj\Debug\netcoreapp3.1\Abc.MsSql.Entities.csproj.CopyComplete
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Entities\obj\Debug\netcoreapp3.1\Abc.MsSql.Entities.dll
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Entities\obj\Debug\netcoreapp3.1\Abc.MsSql.Entities.pdb

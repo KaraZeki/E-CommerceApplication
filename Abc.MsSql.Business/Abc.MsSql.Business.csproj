@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Abc.Core\Abc.Core.csproj" />
+    <ProjectReference Include="..\Abc.MsSql.DataAccess\Abc.MsSql.DataAccess.csproj" />
+    <ProjectReference Include="..\Abc.MsSql.Entities\Abc.MsSql.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "devDependencies": {
+  },
+  "dependencies": {
+    "bootstrap": "4.2.1",
+    "jquery": "3.2.1",
+    "jquery-validation": "1.19.2",
+    "jquery-validation-unobtrusive": "3.2.11"
+  }
+}
+
+//bu alan WebUI üzerinde sað klick >Add > NewItem > npm Configure File paketini ekleyerek yüklendi

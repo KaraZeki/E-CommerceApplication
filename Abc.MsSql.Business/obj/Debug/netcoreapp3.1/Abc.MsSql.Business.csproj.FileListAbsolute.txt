@@ -1,0 +1,25 @@
+C:\Users\Mehmet Zeki KARA\source\repos\Abc\Abc.MsSql.Business\bin\Debug\netcoreapp3.1\Abc.MsSql.Business.deps.json
+C:\Users\Mehmet Zeki KARA\source\repos\Abc\Abc.MsSql.Business\bin\Debug\netcoreapp3.1\Abc.MsSql.Business.dll
+C:\Users\Mehmet Zeki KARA\source\repos\Abc\Abc.MsSql.Business\bin\Debug\netcoreapp3.1\Abc.MsSql.Business.pdb
+C:\Users\Mehmet Zeki KARA\source\repos\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.csprojAssemblyReference.cache
+C:\Users\Mehmet Zeki KARA\source\repos\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Zeki KARA\source\repos\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.AssemblyInfoInputs.cache
+C:\Users\Mehmet Zeki KARA\source\repos\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.AssemblyInfo.cs
+C:\Users\Mehmet Zeki KARA\source\repos\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.dll
+C:\Users\Mehmet Zeki KARA\source\repos\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.pdb
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.csprojAssemblyReference.cache
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.csproj.CoreCompileInputs.cache
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.AssemblyInfoInputs.cache
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.AssemblyInfo.cs
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.dll
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.pdb
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\bin\Debug\netcoreapp3.1\Abc.MsSql.Business.deps.json
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\bin\Debug\netcoreapp3.1\Abc.MsSql.Business.dll
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\bin\Debug\netcoreapp3.1\Abc.MsSql.Business.pdb
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\bin\Debug\netcoreapp3.1\Abc.Core.dll
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\bin\Debug\netcoreapp3.1\Abc.MsSql.DataAccess.dll
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\bin\Debug\netcoreapp3.1\Abc.MsSql.Entities.dll
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\bin\Debug\netcoreapp3.1\Abc.Core.pdb
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\bin\Debug\netcoreapp3.1\Abc.MsSql.DataAccess.pdb
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\bin\Debug\netcoreapp3.1\Abc.MsSql.Entities.pdb
+D:\Asp_NETMVC\EnginDemirog\Abc\Abc.MsSql.Business\obj\Debug\netcoreapp3.1\Abc.MsSql.Business.csproj.CopyComplete
